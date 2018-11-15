@@ -1,4 +1,6 @@
 # EOS1
 Image analysis code (Python) for EOS 1 open-source spectrometer
 
-ImgAna_minimum.py will be updated soon.
+Please read ImgAna_simplified.ipynb first.
+
+ImgAna_minimum.py is not ready now but will be updated soon.

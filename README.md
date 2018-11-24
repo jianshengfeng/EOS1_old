@@ -12,8 +12,8 @@ Required libraries:
 
 Please read **ImgAna_simplified.ipynb** first. It explains how the image analysis code works.
 
-*ImgAna_minimum.py* can be used in two ways:
+***ImgAna_minimum.py*** can be used in two ways:
 - If run it as a Python script, just follow the prompt. It will first ask you to do a calibration.
 - If import it as a Python module, you will have access to the **EOS1_img** class.
 
-*ImgAna_aligncheck.py* is pretty much the same as *ImgAna_minimum.py* except that it has implemented *check_align* function. It also provides the option of automatic tilt correction (will need the PIL library to do so).
+***ImgAna_aligncheck.py*** is pretty much the same as ***ImgAna_minimum.py*** except that it has implemented *check_align* function. It also provides the option of automatic tilt correction (will need the PIL library to do so).

@@ -11,6 +11,7 @@ try:
 except ImportError:
     PIL_imported = False
     print "Python module 'PIL' not available."
+    pass
 
 
 

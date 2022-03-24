@@ -1,4 +1,7 @@
-# EOS 1
+# EOS 1 (obsolete)
+
+Please go to: https://github.com/jianshengfeng/EOSpec_v01 for updated code.
+
 Image analysis code (Python) for EOS 1 open-source spectrometer. 
 For more information please go to:  www.erieopen.tech
 
